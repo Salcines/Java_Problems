@@ -1,3 +1,4 @@
+custom_name: Multidimensional array
 content:
   - Multidimensional array
   - Fill the matrix by numbers
@@ -7,3 +8,4 @@ content:
   - Reverse elements
   - Create cube
   - Find the corners
+  - The star figure
